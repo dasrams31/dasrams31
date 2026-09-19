@@ -150,12 +150,18 @@ Primary Cores : Python • TypeScript • Next.js • Laravel • Rust / Anchor 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dasrams31&show_icons=true&theme=tokyonight&hide_border=true&title_color=8A2BE2&icon_color=32CD32&text_color=94A3B8&bg_color=090B10" alt="Rama Danadipa GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasrams31&layout=compact&theme=tokyonight&hide_border=true&title_color=8A2BE2&text_color=94A3B8&bg_color=090B10" alt="Top Languages" />
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=dasrams31&show_icons=true&theme=tokyonight&hide_border=true&title_color=8A2BE2&icon_color=32CD32&text_color=94A3B8&bg_color=090B10" alt="Rama Danadipa GitHub Stats" />
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dasrams31&layout=compact&theme=tokyonight&hide_border=true&title_color=8A2BE2&text_color=94A3B8&bg_color=090B10" alt="Top Languages" />
 
-<br>
+<br><br>
 
-<img src="https://gitlab-readme-stats.vercel.app/api?username=RamsNotes31&show_icons=true&theme=dark" alt="RamsNotes31 GitLab Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dasrams31&theme=tokyonight&hide_border=true&background=090B10&ring=8A2BE2&fire=32CD32&currStreakLabel=32CD32" alt="GitHub Contribution Streak" />
+
+<br><br>
+
+[![GitLab Projects](https://img.shields.io/badge/GitLab%20Repositories-15%2B%20Ecosystem%20Projects-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/RamsNotes31)
+[![GitLab Contributor](https://img.shields.io/badge/GitLab%20Status-Active%20Lead%20Architect-32CD32?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/RamsNotes31)
+[![Maintained Infrastructure](https://img.shields.io/badge/Cloud%20VPS%20Nodes-10%2B%20Microservices-8A2BE2?style=for-the-badge&logo=gnubash&logoColor=white)](https://dasrams.biz.id)
 
 </div>
 
